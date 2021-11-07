@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/drion/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/drion/static/js/main.c3200fa0.chunk.js",
+    "main.js.map": "/drion/static/js/main.c3200fa0.chunk.js.map",
+    "runtime-main.js": "/drion/static/js/runtime-main.62e91f6f.js",
+    "runtime-main.js.map": "/drion/static/js/runtime-main.62e91f6f.js.map",
+    "static/css/2.a75f5a2c.chunk.css": "/drion/static/css/2.a75f5a2c.chunk.css",
+    "static/js/2.72b83b7c.chunk.js": "/drion/static/js/2.72b83b7c.chunk.js",
+    "static/js/2.72b83b7c.chunk.js.map": "/drion/static/js/2.72b83b7c.chunk.js.map",
+    "static/js/3.f22c7816.chunk.js": "/drion/static/js/3.f22c7816.chunk.js",
+    "static/js/3.f22c7816.chunk.js.map": "/drion/static/js/3.f22c7816.chunk.js.map",
+    "index.html": "/drion/index.html",
+    "static/css/2.a75f5a2c.chunk.css.map": "/drion/static/css/2.a75f5a2c.chunk.css.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/drion/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.72b83b7c.chunk.js.LICENSE.txt": "/drion/static/js/2.72b83b7c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/drion/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62e91f6f.js",
+    "static/css/2.a75f5a2c.chunk.css",
+    "static/js/2.72b83b7c.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.c3200fa0.chunk.js"
+  ]
+}
